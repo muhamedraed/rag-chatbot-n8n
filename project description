@@ -1,0 +1,9 @@
+## Project: RAG Chatbot using n8n
+
+Built a Retrieval-Augmented Generation chatbot using n8n workflow automation.
+
+Implemented semantic search using Pinecone vector database.
+
+Generated embeddings with OpenAI and responses using OpenRouter LLM models.
+
+Integrated Google Drive to retrieve company policy documents in PDF format.
